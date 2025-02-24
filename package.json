@@ -1,0 +1,24 @@
+{
+  "name": "practica_webpack",
+  "version": "1.0.0",
+  "description": "Un portafolio minimalista con Vanilla JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guswill24/practica_webpack.git"
+  },
+  "keywords": [
+    "javascript",
+    "html",
+    "css"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guswill24/practica_webpack/issues"
+  },
+  "homepage": "https://github.com/guswill24/practica_webpack/#readme"
+}
